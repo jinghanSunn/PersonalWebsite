@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Jinghan Sun"
 
 [params]
   displayName = "EN"
@@ -13,13 +13,15 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[author]
+  name = "Jinghan Sun"
+  image = "img/jh.jpg"
+  headline = '''
+A third-year Ph.D. candidate at [Xiamen University](https://www.xmu.edu.cn/)
+'''
+  bio = "A little bit about you"
+  links = [
+    { email = "jhsun@stu.xmu.edu.cn" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -34,7 +36,7 @@ title = "Blowfish"
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
-#     { google = "https://www.google.com/" },
+    { google = "https://scholar.google.com.hk/citations?user=T0ru9jYAAAAJ&hl=zh-CN" },
 #     { hashnode = "https://username.hashnode.dev" },
 #     { instagram = "https://instagram.com/username" },
 #     { itch-io = "https://username.itch.io" },
@@ -49,7 +51,7 @@ title = "Blowfish"
 #     { patreon = "https://www.patreon.com/username" },
 #     { pinterest = "https://pinterest.com/username" },
 #     { reddit = "https://reddit.com/user/username" },
-#     { researchgate = "https://www.researchgate.net/profile/username" },
+    # { researchgate = "https://www.researchgate.net/profile/username" },
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
@@ -63,6 +65,6 @@ title = "Blowfish"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://space.bilibili.com/361806231/?spm_id_from=333.999.0.0" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+  ]
