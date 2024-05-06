@@ -9,6 +9,9 @@ I am currently a third-year Ph.D. candidate at [Xiamen University](https://www.x
 
 My research aims to advance medical image analysis using AI, striving for affordable and accurate medical decision-making. My recent focus includes 1) vision-language models, 2) few-shot learning, and 3) Diffusion-based generative AI.
 
+### Contact
+jhsun@stu.xmu.edu.cn; J.Sun-81@sms.ed.ac.uk
+
 
 <br clear="left"/>
 
