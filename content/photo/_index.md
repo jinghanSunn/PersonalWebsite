@@ -100,4 +100,8 @@ layout: "simple"
   <img src="iceland.jpg" class="grid-w33" />
   <img src="red.jpg" class="grid-w33" />
   <img src="seagull2.jpg" class="grid-w33" />
+  <img src="MeInIceland.jpg" class="grid-w33" />
+  <img src="lonely.jpg" class="grid-w33" />
+  <img src="greece.jpg" class="grid-w33" />
+  <img src="light.jpg" class="grid-w33" />
 {{< /gallery >}}
