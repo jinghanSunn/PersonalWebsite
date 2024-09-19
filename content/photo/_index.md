@@ -90,11 +90,14 @@ layout: "simple"
   <img src="Aleng.jpg" class="grid-w33" />
   <img src="Aleng2.jpg" class="grid-w33" />
   <img src="Guitar.jpg" class="grid-w33" />
-  <img src="IMG_0824.jpg" class="grid-w33" />
+  <!-- <img src="IMG_0824.jpg" class="grid-w33" /> -->
   <img src="NorthBerwick.jpg" class="grid-w33" />
   <img src="seagull.jpg" class="grid-w33" />
   <img src="Shadow.jpg" class="grid-w33" />
   <img src="Skateboard.jpg" class="grid-w33" />
   <img src="Sunset.jpg" class="grid-w33" />
   <img src="Tokyo.jpg" class="grid-w33" />
+  <img src="iceland.jpg" class="grid-w33" />
+  <img src="red.jpg" class="grid-w33" />
+  <img src="seagull2.jpg" class="grid-w33" />
 {{< /gallery >}}
