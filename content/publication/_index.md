@@ -7,6 +7,13 @@ layout: "simple"
 
 ## Journal
 
+<img src="./2023-TMI-report.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+
+**Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation**\
+**Jinghan Sun**, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Liansheng Wang, Sotirios A. Tsaftaris, Steven McDonagh, Yefeng Zheng.\
+*IEEE TMI, 2024.*\
+[Paper](https://ieeexplore.ieee.org/document/10798513)
+
 <img src="./2024-MIA.jpeg" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 
 **Hybrid unsupervised representation learning and pseudo-label supervised self-distillation for rare disease imaging phenotype classification with dispersion-aware imbalance correction**\
@@ -60,17 +67,3 @@ Hong Liu, Dong Wei, Donghuan Lu, **Jinghan Sun**, Liansheng Wang, Yefeng Zheng.\
 **Jinghan Sun**, Dong Wei, Liansheng Wang, Yefeng Zheng.\
 *Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.*\
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_50), [Code](https://github.com/jinghanSunn/Hybrid-Representation-Learning-Approach-for-Rare-Disease-Classification)
-
-<br clear="left"/>
-
-## Preprint
-
-
-<img src="./2023-TMI-report.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
-
-**Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation**\
-**Jinghan Sun**, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Liansheng Wang, Yefeng Zheng.\
-*Major Revision in IEEE TMI, 2023.*\
-[Paper]()
-
-<br clear="left"/>
