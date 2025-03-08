@@ -37,6 +37,17 @@
  pageRef = "music"
  weight = 20
 
+[[main]]
+ name = "Movies"
+ parent = "Fun Staff"
+ pageRef = "movie"
+ weight = 20
+
+# [[main]]
+#  name = "Books"
+#  parent = "Fun Staff"
+#  pageRef = "book"
+#  weight = 20
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
