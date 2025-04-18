@@ -15,6 +15,7 @@ jhsun@stu.xmu.edu.cn; J.Sun-81@sms.ed.ac.uk
 
 <br clear="left"/>
 
+<img src="./jh2.JPG" width="250px" alt="Image" style="float: left; margin-right: 50px; margin-bottom: 10px;">
 
 ## Professional Services
 
@@ -30,7 +31,10 @@ jhsun@stu.xmu.edu.cn; J.Sun-81@sms.ed.ac.uk
   - MICCAI Student
 -->
 
+<br>
+
 ## Misc.
+
 
 I love playing piano and guitar, producing music, creating motion graphics, and doing outdoor activities like skateboarding and surfing.
 

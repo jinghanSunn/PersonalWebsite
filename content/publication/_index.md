@@ -8,12 +8,14 @@ layout: "simple"
 ## Journal
 
 <img src="./2023-TMI-report.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+<!-- <img src="./2023-TMI-report.png" width="250px" height="30px" alt="Image" style="float: left; margin-right: 10px; object-fit: cover;"> -->
 
 **Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation**\
 **Jinghan Sun**, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Liansheng Wang, Sotirios A. Tsaftaris, Steven McDonagh, Yefeng Zheng.\
-*IEEE TMI, 2024.*\
+*IEEE TMI, 2024.*
 [Paper](https://ieeexplore.ieee.org/document/10798513)
 
+<br>
 <img src="./2024-MIA.jpeg" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 
 **Hybrid unsupervised representation learning and pseudo-label supervised self-distillation for rare disease imaging phenotype classification with dispersion-aware imbalance correction**\
