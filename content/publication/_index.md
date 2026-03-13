@@ -51,23 +51,23 @@ layout: "simple"
 
 <br clear="left"/>
 
-<img src="./2023-MICCAI-CU2L.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+<!-- <img src="./2023-MICCAI-CU2L.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 
 **Category-Level Regularized Unlabeled-to-Labeled Learning for Semi-supervised Prostate Segmentation with Multi-site Unlabeled Data**\
 Zhe Xu, Donghuan Lu, Jiangpeng Yan, **Jinghan Sun**, Jie Luo, Dong Wei, Sarah Frisken, Quanzheng Li, Yefeng Zheng, Raymond Tong.\
 *Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.*\
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_1)
 
-<br clear="left"/>
+<br clear="left"/> -->
 
-<img src="./2023-AAAI-M3AE.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+<!-- <img src="./2023-AAAI-M3AE.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 
 **M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities**\
 Hong Liu, Dong Wei, Donghuan Lu, **Jinghan Sun**, Liansheng Wang, Yefeng Zheng.\
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.*\
 [Code](https://ojs.aaai.org/index.php/AAAI/article/view/25253), [Code](https://github.com/ccarliu/m3ae)
 
-<br clear="left"/>
+<br clear="left"/> -->
 
 <img src="./2022-AAAI-Camtrast.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 
