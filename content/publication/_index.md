@@ -7,6 +7,13 @@ layout: "simple"
 
 ## Journal
 
+<img src="./2025-MIA-IRD-IVC.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+<!-- <img src="./2023-TMI-report.png" width="250px" height="30px" alt="Image" style="float: left; margin-right: 10px; object-fit: cover;"> -->
+
+**Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation**\
+**Jinghan Sun**, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\
+*MedIA (under review), 2025.*
+
 <img src="./2023-TMI-report.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 <!-- <img src="./2023-TMI-report.png" width="250px" height="30px" alt="Image" style="float: left; margin-right: 10px; object-fit: cover;"> -->
 
@@ -26,6 +33,14 @@ layout: "simple"
 <br clear="left"/>
 
 ## Conference
+<img src="./2025-ACL.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
+
+**Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation**\
+**Jinghan Sun**, Dong Wei, Zhihong Zhu, Yuyang Xue, Steven McDonagh, Xian Wu\
+*the Association for Computational Linguistics (ACL 2026, under review) .*\
+
+<br clear="left"/>
+
 
 <img src="./2023-MICCAI-report.png" width="250px" alt="Image" style="float: left; margin-right: 10px;">
 

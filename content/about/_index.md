@@ -10,10 +10,10 @@ layout: "simple"
 I am currently a Researcher at Tencent Javis Lab. I received my Ph.D. from [Xiamen University](https://www.xmu.edu.cn/), under the supervision of [Prof. Liansheng Wang](https://xmu-lswang.github.io/). During my doctoral studies, I was a visiting student at [The University of Edinburgh](https://www.ed.ac.uk/), supervised by [Prof. Sotirios A. Tsaftaris](https://vios.science/team/tsaftaris). I have also been an intern at [Tencent Youtu Jarvis Center](https://jarvislab.tencent.com/index-en.html) since 2020, where I worked under the leadership of [Dr. Yefeng Zheng](https://scholar.google.com/citations?hl=en&user=vAIECxgAAAAJ) (IEEE Fellow) and the supervision of [Dr. Dong Wei](https://scholar.google.com/citations?user=njMpTPwAAAAJ&hl=en).
 
 
-My research aims to advance medical image analysis using AI, striving for affordable and accurate medical decision-making. My recent focus includes 1) vision-language models, 2) few-shot learning, and 3) Diffusion-based generative AI.
+My research aims to advance medical image analysis using AI, striving for affordable and accurate medical decision-making. My recent focus includes 1) vision-language models, 2) report generation, and 3) diffusion-based generative AI.
 
 ### Contact
-jhsun@stu.xmu.edu.cn; J.Sun-81@sms.ed.ac.uk
+jhsun@stu.xmu.edu.cn; jinghansun@tencent.com
 
 
 <br clear="left"/>
