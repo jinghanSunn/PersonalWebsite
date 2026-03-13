@@ -37,7 +37,7 @@ layout: "simple"
 
 **Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation**\
 **Jinghan Sun**, Dong Wei, Zhihong Zhu, Yuyang Xue, Steven McDonagh, Xian Wu\
-*the Association for Computational Linguistics (ACL 2026, under review) .*\
+*the Association for Computational Linguistics (ACL 2026, under review) .*
 
 <br clear="left"/>
 
