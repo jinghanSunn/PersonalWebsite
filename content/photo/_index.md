@@ -3,105 +3,70 @@ title: "Photography"
 layout: "simple"
 ---
 
-<!--
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="IMG_0824.JPG" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Gibraltar</h3>
-    <p>Giant Murals bring the imagination to the reality.</p>
-  </div>
-</div>
 
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="seagull.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Portobello Beach, Edinburgh</h3>
-    <p>Giant Murals bring the imagination to the reality.</p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Aleng.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Danboard</h3>
-    <p>Taken in Xiamen.</p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Aleng2.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Danboard</h3>
-    <p>Taken in Xiamen.</p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Guitar.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Taken in Vancouver.</h3>
-    <p></p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Skateboard.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Taken in Shenzhen, China</h3>
-    <p>Taken in Xiamen</p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="NorthBerwick.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>North Berwick, Edinburgh</h3>
-    <p></p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="shadow.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Shadow</h3>
-    <p></p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Sunset.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Sunset</h3>
-    <p>Taken in Xiamen</p>
-  </div>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 5px; display: inline-block; margin: 5px; overflow: hidden; width: 400px;height: 400px;">
-  <img src="Tokyo.jpg" alt="Lyon" style="width: 100%;">
-  <div style="padding: 0px;">
-    <h3>Tokyo SkyTree, Japan</h3>
-    <p>Taken in Xiamen</p>
-  </div>
-</div>
--->
-
+## Featured
 
 {{< gallery >}}
-  <img src="Aleng.jpg" class="grid-w33" />
-  <img src="Aleng2.jpg" class="grid-w33" />
-  <img src="Guitar.jpg" class="grid-w33" />
-  <!-- <img src="IMG_0824.jpg" class="grid-w33" /> -->
-  <img src="NorthBerwick.jpg" class="grid-w33" />
-  <img src="seagull.jpg" class="grid-w33" />
-  <img src="Shadow.jpg" class="grid-w33" />
-  <img src="Skateboard.jpg" class="grid-w33" />
-  <img src="Sunset.jpg" class="grid-w33" />
-  <img src="Tokyo.jpg" class="grid-w33" />
-  <img src="iceland.jpg" class="grid-w33" />
-  <img src="red.jpg" class="grid-w33" />
-  <img src="seagull2.jpg" class="grid-w33" />
-  <img src="MeInIceland.jpg" class="grid-w33" />
-  <img src="lonely.jpg" class="grid-w33" />
-  <img src="greece.jpg" class="grid-w33" />
-  <!-- <img src="light.jpg" class="grid-w33" /> -->
+  <img src="seagull.jpg" class="grid-w100" />
 {{< /gallery >}}
+
+*Iceland · Solitude*
+
+---
+
+## City & Life
+
+{{< gallery >}}
+  <img src="Tokyo.jpg" class="grid-w66 md:grid-w66" />
+  <img src="Skateboard.jpg" class="grid-w33 md:grid-w33" />
+
+  <img src="Barcelona.JPG" class="grid-w33 md:grid-w50" />
+  <img src="Barcelona2.JPG" class="grid-w33 md:grid-w50" />
+
+  <img src="Shadow.jpg" class="grid-w50 md:grid-w50" />
+  <img src="Sunset.jpg" class="grid-w50 md:grid-w50" />
+
+  <img src="shengjiatang.JPG" class="grid-w50 md:grid-w50" />
+  <img src="IMG_0824.JPG" class="grid-w50 md:grid-w50" />
+{{< /gallery >}}
+
+---
+
+## Landscape
+
+{{< gallery >}}
+  <img src="lonely.jpg" class="grid-w66 md:grid-w66" />
+  <img src="iceland.jpg" class="grid-w33 md:grid-w33" />
+
+  <img src="NorthBerwick.jpg" class="grid-w33 md:grid-w33" />
+  <img src="greece.jpg" class="grid-w66 md:grid-w66" />
+
+  <img src="red.jpg" class="grid-w33 md:grid-w33" />
+  <img src="seagull2.jpg" class="grid-w33 md:grid-w33" />
+  <img src="seagull.jpg" class="grid-w33 md:grid-w33" />
+
+  <img src="Dolomiti.JPG" class="grid-w66 md:grid-w66" />
+  <img src="Dolomiti2.JPG" class="grid-w33 md:grid-w33" />
+
+  <img src="Dolomiti3.JPG" class="grid-w50 md:grid-w50" />
+  <img src="NiceBeach.JPG" class="grid-w50 md:grid-w50" />
+
+  <img src="Light.jpg" class="grid-w50 md:grid-w50" />
+{{< /gallery >}}
+
+---
+
+## Portrait / Story
+
+{{< gallery >}}
+  <img src="Aleng.jpg" class="grid-w50 md:grid-w50" />
+  <img src="MeInIceland.jpg" class="grid-w50 md:grid-w50" />
+  <img src="Aleng2.jpg" class="grid-w50 md:grid-w50" />
+  <img src="Guitar.jpg" class="grid-w50 md:grid-w50" />
+
+  <img src="Guitar2.JPG" class="grid-w50 md:grid-w50" />
+{{< /gallery >}}
+
+
+
+
